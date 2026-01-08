@@ -32,14 +32,10 @@ Backend Software Engineer ● Java ● Spring Boot ● REST APIs ● Microservic
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/>
 
 You have finally discovered my GitHub profile, so let’s get connected!  
 Please feel free to clone projects and raise issues if you think something could be improved.  
 **Happy Coding!! 🚀**
-
-<br/>
-
-[![](https://visitcount.itsvg.in/api?id=purvathota&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
