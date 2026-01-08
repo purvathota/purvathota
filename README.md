@@ -62,12 +62,12 @@
 ![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172BF4?style=for-the-badge&logo=confluence&logoColor=white)
 
-<!-- Visual SVG (non-clickable by GitHub design) -->
+<!-- Visual SVG -->
 <div align="center">
   <img src="./socials.svg" alt="Connect with me"/>
 </div>
 
-<!-- Clickable social links (this is what actually works on GitHub) -->
+<!-- Clickable buttons -->
 <div align="center">
 
 <a href="https://linkedin.com/in/purva-thota" target="_blank">
