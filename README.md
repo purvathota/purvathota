@@ -30,10 +30,11 @@ Backend Software Engineer ● Java ● Spring Boot ● REST APIs ● Microservic
   <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<p>
-You have finally discovered my GitHub profile, so let’s get connected!<br/>
-Please feel free to clone projects and raise issues if you think something could be better.<br/>
-<strong>Happy Coding!! 🚀</strong>
-</p>
+<div style="margin-top: 8px;">
 
+You have finally discovered my GitHub profile, so let’s get connected!  
+Please feel free to clone projects and raise issues if you think something could be better.  
+<strong>Happy Coding!! 🚀</strong>
+
+</div>
 </div>
