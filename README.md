@@ -81,10 +81,5 @@
 <!-- Closing text -->
 <p align="center">
   You have finally discovered my GitHub profile, so let’s get connected!
-</p>
-
-<p align="center">
-  Please feel free to clone projects and raise issues if you think something could be better.
-</p>
-
-<p align="center"><b>Happy Coding!! 🚀</b></p>
+Please feel free to clone projects and raise issues if you think something could be better.
+Happy Coding!! 🚀</b></p>
