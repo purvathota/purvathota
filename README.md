@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 # 💫 About Me
 - 🚀 Building and optimizing production-grade Java backend services using Spring Boot and REST APIs.
 - 🤝 Open to collaborating on backend and platform-focused projects involving scalable systems.
@@ -15,8 +13,6 @@
 - 🌱 Exploring event-driven architectures and cloud-native backend patterns.
 - 💬 Ask me about Java, Spring Boot, REST APIs, SQL optimization, Kafka, and backend debugging.
 - ⚡ Fun fact: I enjoy debugging production issues and improving system reliability more than writing boilerplate code.
-
----
 
 # 💻 Tech Stack
 
@@ -66,8 +62,22 @@
 ![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172BF4?style=for-the-badge&logo=confluence&logoColor=white)
 
----
-
+<!-- Visual SVG (non-clickable by GitHub design) -->
 <div align="center">
-  <img src="./socials.svg" alt="Social Links"/>
+  <img src="./socials.svg" alt="Connect with me"/>
+</div>
+
+<!-- Clickable social links (this is what actually works on GitHub) -->
+<div align="center">
+
+<a href="https://linkedin.com/in/purva-thota" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:purvathota@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://instagram.com/mystique_wandererr" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </div>
