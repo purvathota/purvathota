@@ -1,6 +1,11 @@
 # 💫 About Me:
-Backend-focused software engineer with 2+ years of experience building production-grade, scalable systems. I enjoy working on microservices, event-driven architectures and performance-sensitive backend problems.<br>Building and optimizing Java & Node.js backend services, focusing on API performance, scalability and reliability in production environments.<br>Backend or platform projects involving microservices, distributed systems, APIs, Kafka, databases or developer tools.<br>Deepening my understanding of performance engineering, observability, and cloud-native system design.<br>GraphQL, advanced system design and cloud-native patterns with a focus on building high-throughput, resilient services.<br>Java, Spring Boot, REST APIs, SQL optimization, Kafka, backend architecture and production debugging.<br>I enjoy turning messy backend workflows into clean, scalable systems and I like debugging production issues more than writing boilerplate code.
-
+- 💻 Backend-focused software engineer with 2+ years of experience building production-grade, scalable systems.
+- 🚀 Building and optimizing Java & Node.js backend services.
+- 🤝 Looking to collaborate on backend/platform projects.
+- 📈 Learning performance engineering and observability.
+- 🌱 Exploring GraphQL and cloud-native patterns.
+- 💬 Ask me about Java, Spring Boot, Kafka and SQL optimization.
+- ⚡ Fun fact: I enjoy debugging production issues more than writing boilerplate code.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mystique_wandererr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/purva-thota) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:purvathota@gmail.com) 
