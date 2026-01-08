@@ -80,6 +80,7 @@
 
 <!-- Closing text -->
 <p align="center">
-  You have finally discovered my GitHub profile, so let’s get connected!
-Please feel free to clone projects and raise issues if you think something could be better.
-Happy Coding!! 🚀</b></p>
+  You have finally discovered my GitHub profile, so let’s get connected!<br/>
+  Please feel free to clone projects and raise issues if you think something could be better.<br/>
+  <b>Happy Coding!! 🚀</b>
+</p>
