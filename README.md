@@ -20,21 +20,20 @@ Backend Software Engineer ● Java ● Spring Boot ● REST APIs ● Microservic
 
 <div align="center">
 
-<br/>
-
 <a href="https://linkedin.com/in/purva-thota">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:purvathota@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://instagram.com/mystique_wandererr">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<br/><br>
+<br/><br/>
+
 You have finally discovered my GitHub profile, so let’s get connected!  
-Please feel free to clone projects and raise issues if you think something could be improved.  
+Please feel free to clone projects and raise issues if you think something could be better.  
 **Happy Coding!! 🚀**
-<br/>
+
 </div>
