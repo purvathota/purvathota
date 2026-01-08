@@ -62,7 +62,8 @@
 ![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172BF4?style=for-the-badge&logo=confluence&logoColor=white)
 
-<!-- Clickable buttons -->
+## 🤝 Connect with me on:
+
 <div align="center">
 
 <a href="https://linkedin.com/in/purva-thota" target="_blank">
@@ -74,6 +75,8 @@
 <a href="https://instagram.com/mystique_wandererr" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
+</div>
 
 <!-- Small controlled gap -->
 <p align="center" style="margin-top: 10px;"></p>
