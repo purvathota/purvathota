@@ -6,13 +6,17 @@
 
 </div>
 
-# 💫 About Me:
+---
+
+# 💫 About Me
 - 🚀 Building and optimizing production-grade Java backend services using Spring Boot and REST APIs.
 - 🤝 Open to collaborating on backend and platform-focused projects involving scalable systems.
 - 📈 Learning performance engineering, observability, and production monitoring practices.
 - 🌱 Exploring event-driven architectures and cloud-native backend patterns.
 - 💬 Ask me about Java, Spring Boot, REST APIs, SQL optimization, Kafka, and backend debugging.
 - ⚡ Fun fact: I enjoy debugging production issues and improving system reliability more than writing boilerplate code.
+
+---
 
 # 💻 Tech Stack
 
@@ -61,6 +65,8 @@
 ![GitLab](https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172BF4?style=for-the-badge&logo=confluence&logoColor=white)
+
+---
 
 <div align="center">
   <img src="./socials.svg" alt="Social Links"/>
