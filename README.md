@@ -20,3 +20,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=purvathota&icon=0&color=0)](https://visitcount.itsvg.in)
+
+You’ve discovered my GitHub profile — feel free to explore projects, clone repositories, and raise issues if you think something could be improved.  
+Happy coding!!
