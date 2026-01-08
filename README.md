@@ -75,19 +75,16 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<!-- Text -->
-  <text class="text" x="600" y="115">
-    You have finally discovered my GitHub profile, so let’s get connected!
-  </text>
+<!-- Small controlled gap -->
+<p align="center" style="margin-top: 10px;"></p>
 
-  <text class="text" x="600" y="145">
-    Please feel free to clone projects and raise issues if you think something could be better.
-  </text>
+<!-- Closing text -->
+<p align="center">
+  You have finally discovered my GitHub profile, so let’s get connected!
+</p>
 
-  <text class="text bold" x="600" y="180">
-    Happy Coding!! 🚀
-  </text>
-</div>
+<p align="center">
+  Please feel free to clone projects and raise issues if you think something could be better.
+</p>
 
-
-
+<p align="center"><b>Happy Coding!! 🚀</b></p>
