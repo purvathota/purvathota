@@ -29,6 +29,7 @@ Backend Software Engineer ● Java ● Spring Boot ● REST APIs ● Microservic
 <a href="https://instagram.com/mystique_wandererr">
   <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
 You have finally discovered my GitHub profile, so let’s get connected!  
 Please feel free to clone projects and raise issues if you think something could be better.  
 **Happy Coding!! 🚀**
