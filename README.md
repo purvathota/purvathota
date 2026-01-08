@@ -62,11 +62,6 @@
 ![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172BF4?style=for-the-badge&logo=confluence&logoColor=white)
 
-<!-- Visual SVG -->
-<div align="center">
-  <img src="./socials.svg" alt="Connect with me"/>
-</div>
-
 <!-- Clickable buttons -->
 <div align="center">
 
@@ -80,4 +75,19 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
+<!-- Text -->
+  <text class="text" x="600" y="115">
+    You have finally discovered my GitHub profile, so let’s get connected!
+  </text>
+
+  <text class="text" x="600" y="145">
+    Please feel free to clone projects and raise issues if you think something could be better.
+  </text>
+
+  <text class="text bold" x="600" y="180">
+    Happy Coding!! 🚀
+  </text>
 </div>
+
+
+
