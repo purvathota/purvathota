@@ -2,7 +2,7 @@
 
 # I'm Purva Thota
 
-💻 Backend-focused software engineer with 2+ years of experience building production-grade, scalable systems.
+💻 Backend-focused software engineer with ~3 years of experience building production-grade, scalable systems.
 
 </div>
 
