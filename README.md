@@ -2,7 +2,7 @@
 
 # Hi, I'm Purva Thota
 
-💻 Java Backend Engineer with nearly 3 years of experience building production-grade, scalable systems.
+💻 Backend Engineer with nearly 3 years of experience building production-grade, scalable systems.
 
 </div>
 
